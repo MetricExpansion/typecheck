@@ -8,7 +8,13 @@ draft: true
 
 ## Introduction
 
-INFJs are introverts who lead with Intuition, with Feeling following close behind. 
+INFJs are introverts who lead with Intuition, with Feeling following close behind. They are famed for their deep interpersonal insights and empathy, as well as their ability to put their humanitarian outlook into practice. They are equally infamous for their rarity and the feeling of specialness that this has engendered among the world of typology, though they have since been dethroned from that dubious honor.
+
+Speaking of the simple dichotomous letters for a minute, INFJs belong to the Intuitive Feeling (NF) group, which are generally a group that have a focus on abstract concepts, particularly focusing those related human interest and the human experience. Intuition and feeling are a natural pairing, both hailing from the supposed "right-brain" and both being the antithesis of logical, concrete explanations, leading to a certain fanciful detachment from reality for the entire group. INFJs, being the Introverted Judging (IJ) member of the NFs, will tend to be most structured and self-contained of the group. Introversion and Judging tend to pull in the same direction as each other towards the archetype of a meticulous and careful person, but the that IJ nature has a tension with the NF aspect of their personality, resulting in a personality with some peculiar contours.
+
+INFJs, like most Feeling types, are predominantly women. They commonly tend to have Enneagram 4 or 9, but are generally spread diffusely over the Enneagram types. They are common mistypes with INFP, ISFJ, and (to a lesser extent) INTJ.
+
+Functionally, they have Introverted Intuition and Extraverted Feeling as the conscious and valued functions, with Introverted Thinking and Extraverted Sensing rounding out their unconscious and undervalued functions. 
 
 ## Primary Functions
 
@@ -37,4 +43,16 @@ Unless Ni demands it, you usually won't find INFJs rocking the boat much. As lon
 Fe is also commonly cited as the thing that leads to INFJs' characteristic empathy. However, it's important to note that Fe, as a *judging* function (not a *perceiving* function), has little to do with empathy. However, it does tend to be a general fact that most INFJs are very empathic. This author argues that the causation is reverse: it's probably the case that being more empathetic *leads to* a preference for Fe i.e. it's the empathy towards others that causes one to prioritize and align with their judgements.
 
 ### Introverted Thinking
+
+### Inferior Sensing
+
+## Recognizing an INFJ
+
+## Common Type Confusions
+
+### INFP vs INFJ
+
+### ENFJ vs INFJ
+
+### ISFJ vs INFJ
 
